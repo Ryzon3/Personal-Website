@@ -4,17 +4,11 @@
     display: flex;
     margin: 0px;
     list-style-type: none;
-    justify-content: center;
+    justify-content: right;
     flex-wrap: wrap;
-    background-color: #2aa352;
+    background-color: #7bd883;
 }
 
-.headerCont {
-    padding: 20px;
-    border: 20px #2aa352;
-    border-radius: 100px;
-    background-color: #34bc62;
-}
  
 .headerItem {
     padding: 10px;
@@ -24,12 +18,12 @@
 }
 
 .headerItem > a:link, .headerItem > a:visited {
-  background-color: #2aa38f;
-  color: white;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
+    background-color: #2aa38f;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
     border: 20px #2aa38f;
     border-radius: 20px;
 }
